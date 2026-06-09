@@ -173,11 +173,10 @@ El sistema valida:
 * Al cerrar el programa, los datos cargados se pierden.
 * No se implementa login ni autenticacion.
 * No se descuentan unidades del stock al crear pedidos; solo se valida que haya stock suficiente.
-* Las funcionalidades opcionales, como filtros por categoria o usuario, no fueron implementadas porque no son necesarias para cumplir los requisitos obligatorios.
-
+* Las funcionalidades opcionales, como filtros por categoria o usuario, no fueron implementadas.
 ## Autor
 
-Estudiante: Facundo Gaston Vazquez
-Comision: 10
-Materia: Programacion 2
-Proyecto: Trabajo Practico Integrador - Food Store
+* Estudiante: Facundo Gaston Vazquez
+* Comision: 10
+* Materia: Programacion 2
+* Proyecto: Trabajo Practico Integrador - Food Store
