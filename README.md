@@ -174,6 +174,11 @@ El sistema valida:
 * No se implementa login ni autenticacion.
 * No se descuentan unidades del stock al crear pedidos; solo se valida que haya stock suficiente.
 * Las funcionalidades opcionales, como filtros por categoria o usuario, no fueron implementadas.
+
+## Video de explicación
+
+Link video demostrativo:
+
 ## Autor
 
 * Estudiante: Facundo Gaston Vazquez
